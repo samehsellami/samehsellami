@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pdc" alt="Cover Photo" width="100%" style="border-radius: 10px;" />
+</p>
+
 # 💫 Hi there, I'm Sameh Sellami! 
 ### 💻 Computer Science Student | 🚀 Entrepreneurial Spirit | 🌱 Tech Innovator
 

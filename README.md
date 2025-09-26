@@ -7,10 +7,6 @@
   <span style="font-size: 18px; color:#555;">💻 Computer Science Student | 🚀 Entrepreneurial Spirit | 🌱 Tech Innovator</span>
 </p>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6c061b&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Entrepreneur;Problem+Solver;Innovation+Enthusiast" alt="Animated Typing" />
-</p>
-
 
 
 <p align="center">

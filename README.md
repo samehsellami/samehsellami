@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="pdc1.jpg" alt="Cover Photo" width="100%" style="border-radius: 10px;" />
+  <img src="pdc1.jpg" alt="Cover Photo" width="100%" style="border-radius: 15px; max-width: 800px;" />
 </p>
 
-<p align="center">
-  <span style="font-size:28px;">💫 Hi there, I'm Sameh Sellami!</span><br>
-  <span style="font-size:18px;">💻 Computer Science Student | 🚀 Entrepreneurial Spirit | 🌱 Tech Innovator</span>
+<p align="center" style="margin-top: 20px;">
+  <strong style="font-size: 32px;"> Hi there, I'm Sameh Sellami!</strong><br>
+  <span style="font-size: 18px; color:#555;">💻 Computer Science Student | 🚀 Entrepreneurial Spirit | 🌱 Tech Innovator</span>
 </p>
+
+<p align="center" style="margin-top: 15px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6c061b&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Entrepreneur;Problem+Solver;Innovation+Enthusiast" alt="Animated Typing" />
+</p>
+
 
 
 <p align="center">

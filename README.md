@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pdc.jpg" alt="Cover Photo" width="100%" style="border-radius: 10px;" />
+  <img src="pdc1.jpg" alt="Cover Photo" width="100%" style="border-radius: 10px;" />
 </p>
 
 # 💫 Hi there, I'm Sameh Sellami! 
